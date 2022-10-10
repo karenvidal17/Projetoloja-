@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido na aula de Desenvolvimento Web,aonde criado uma site de loja 
